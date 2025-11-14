@@ -1,4 +1,4 @@
-module github.com/4nd3r5on/cfgreader
+module github.com/4nd3r5on/go-cfgreader
 
 go 1.25.1
 
